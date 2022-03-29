@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/srilokanas/bmi-calculator/static/css/main.fce36487.chunk.css",
-    "main.js": "/srilokanas/bmi-calculator/static/js/main.a4e88274.chunk.js",
-    "main.js.map": "/srilokanas/bmi-calculator/static/js/main.a4e88274.chunk.js.map",
-    "runtime~main.js": "/srilokanas/bmi-calculator/static/js/runtime~main.5c0f51e8.js",
-    "runtime~main.js.map": "/srilokanas/bmi-calculator/static/js/runtime~main.5c0f51e8.js.map",
-    "static/css/2.ae9e8b99.chunk.css": "/srilokanas/bmi-calculator/static/css/2.ae9e8b99.chunk.css",
-    "static/js/2.88fa7e6a.chunk.js": "/srilokanas/bmi-calculator/static/js/2.88fa7e6a.chunk.js",
-    "static/js/2.88fa7e6a.chunk.js.map": "/srilokanas/bmi-calculator/static/js/2.88fa7e6a.chunk.js.map",
-    "index.html": "/srilokanas/bmi-calculator/index.html",
-    "precache-manifest.9aec2572be3f49c78c982e2376ffe858.js": "/srilokanas/bmi-calculator/precache-manifest.9aec2572be3f49c78c982e2376ffe858.js",
-    "service-worker.js": "/srilokanas/bmi-calculator/service-worker.js",
-    "static/css/2.ae9e8b99.chunk.css.map": "/srilokanas/bmi-calculator/static/css/2.ae9e8b99.chunk.css.map",
-    "static/css/main.fce36487.chunk.css.map": "/srilokanas/bmi-calculator/static/css/main.fce36487.chunk.css.map"
+    "main.css": "/static/css/main.fce36487.chunk.css",
+    "main.js": "/static/js/main.a4e88274.chunk.js",
+    "main.js.map": "/static/js/main.a4e88274.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.00a557fc.js",
+    "runtime~main.js.map": "/static/js/runtime~main.00a557fc.js.map",
+    "static/css/2.ae9e8b99.chunk.css": "/static/css/2.ae9e8b99.chunk.css",
+    "static/js/2.33adcf91.chunk.js": "/static/js/2.33adcf91.chunk.js",
+    "static/js/2.33adcf91.chunk.js.map": "/static/js/2.33adcf91.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.277d0ea9164d8d7cec5c2001473a9903.js": "/precache-manifest.277d0ea9164d8d7cec5c2001473a9903.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.ae9e8b99.chunk.css.map": "/static/css/2.ae9e8b99.chunk.css.map",
+    "static/css/main.fce36487.chunk.css.map": "/static/css/main.fce36487.chunk.css.map"
   }
 }
